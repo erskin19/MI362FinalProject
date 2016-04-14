@@ -17,7 +17,7 @@ class SiteTest extends \PHPUnit_Framework_TestCase
 
 	public function testGetTablePrefix() {
         $site = new Site();
-        $site->dbConfigure("foo", "bar", "pass", "foobar");
+        $site->dbConfigure("foo", "foobar");
 		$this->assertEquals("foobar", $site->getTablePrefix());
 	}
 
