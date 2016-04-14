@@ -1,5 +1,5 @@
 <?php
-require 'format.inc.php';
+//require 'format.inc.php';
 ?>
 
 <!DOCTYPE html>
@@ -11,7 +11,7 @@ require 'format.inc.php';
 </head>
 
 <body>
-<?php echo present_header(); ?>
+<?php// echo present_header(); ?>
 <section>
     <form method="post" action="game-post.php">
         <h2>Please enter name</h2>
