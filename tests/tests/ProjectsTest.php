@@ -41,8 +41,8 @@ class ProjectsTest extends \PHPUnit_Extensions_Database_TestCase
     }
 
     public function test_construct() {
-        $users = new Users(self::$site);
-        $this->assertInstanceOf('Users', $users);
+        $projects = new Projects(self::$site);
+        $this->assertInstanceOf('Projects', $projects);
     }
 
     public function test_get() {
