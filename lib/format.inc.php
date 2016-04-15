@@ -18,10 +18,10 @@ function present_header() {
 <h1>$title</h1>
 </header>
 <div class="row" id="tabs">
-<a href="index.php"><div class="col-3">About Me</div></a>
-<a href="index.php"><div class="col-3">Portfolio</div></a>
-<a href="index.php"><div class="col-3">Experience</div></a>
-<a href="index.php"><div class="col-3">Contact Me</div></a>
+<a href="index.php"><div class="col-3 tabs">About Me</div></a>
+<a href="index.php"><div class="col-3 tabs">Portfolio</div></a>
+<a href="index.php"><div class="col-3 tabs">Experience</div></a>
+<a href="index.php"><div class="col-3 tabs">Contact Me</div></a>
 </div>
 
 HTML;
