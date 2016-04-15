@@ -5,10 +5,10 @@
 // A $( document ).ready() block.
 $( document ).ready(function() {
     console.log( "ready!" );
-    $('.project').click(projectClick(this.id));
+    $('.project').click(projectClick);
 });
 
 // function called when a project is clicked on
-function projectClick(id){
-    console.log(id);
+function projectClick(){
+    console.log(this);
 }
