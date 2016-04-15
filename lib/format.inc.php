@@ -17,7 +17,7 @@ function present_head($subTitle) {
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title><?php echo TITLE . ' - ' . $subTitle; ?></title>
+<title>$title - $subTitle</title>
 <link href='http://fonts.googleapis.com/css?family=Great+Vibes' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" href="css/main.css">
 </head>
