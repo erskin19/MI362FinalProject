@@ -45,6 +45,14 @@
     .col-10 {width: 83.33%;}
     .col-11 {width: 91.66%;}
     .col-12 {width: 100%;}
+
+    header h1{
+        font-size: 4.5em;
+        padding-bottom:.1em;
+        padding-top:1em;
+        margin-bottom: 0;
+        margin-top: .25em;
+    }
 }
 
 [class*="col-"] {
@@ -74,7 +82,7 @@ header{
 
 header h1{
     text-align: left;
-    font-size: 4.5em;
+    font-size: 2em;
     padding-bottom:.1em;
     padding-top:1em;
     margin-bottom: 0;
