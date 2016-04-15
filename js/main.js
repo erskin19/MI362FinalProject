@@ -10,5 +10,5 @@ $( document ).ready(function() {
 
 // function called when a project is clicked on
 function projectClick(object){
-    console.log(object.id);
+    console.log(this.id);
 }
