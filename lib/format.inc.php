@@ -33,14 +33,14 @@ HTML;
 function present_header() {
     $title = TITLE;
     $html = <<<HTML
-<header class="row col-12">
+<header class="row col-12 col-t-12 col-m-12">
 <h1>$title</h1>
 </header>
 <div class="row" id="tabs">
-<a href="index.php"><div class="col-3 tabs">About Me</div></a>
-<a href="portfolio.php"><div class="col-3 tabs">Portfolio</div></a>
-<a href="experience.php"><div class="col-3 tabs">Experience</div></a>
-<a href="contact.php"><div class="col-3 tabs">Contact Me</div></a>
+<a href="index.php"><div class="col-3 col-t-3 col-m-12 tabs">About Me</div></a>
+<a href="portfolio.php"><div class="col-3 col-t-3 col-m-12 tabs">Portfolio</div></a>
+<a href="experience.php"><div class="col-3 col-t-3 col-m-12 tabs">Experience</div></a>
+<a href="contact.php"><div class="col-3 col-t-3 col-m-12 tabs">Contact Me</div></a>
 </div>
 
 HTML;
