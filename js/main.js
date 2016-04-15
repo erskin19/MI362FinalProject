@@ -11,4 +11,6 @@ $( document ).ready(function() {
 // function called when a project is clicked on
 function projectClick(){
     console.log(this);
+    $("#cover").css("display", "block");
+    $("#popup").css("display", "block");
 }

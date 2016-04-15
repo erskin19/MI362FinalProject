@@ -24,7 +24,7 @@ require 'lib/site.inc.php';
     <div class="col-3 col-t-4 col-m-12"><img src="img/placeholder.png" alt="placholder" /></div>
     <div class="col-3 col-t-4 col-m-12"><img src="img/placeholder.png" alt="placholder" /></div>
 </div>
-
+<div id="popup"></div>
 <div id="cover"></div>
 </body>
 
