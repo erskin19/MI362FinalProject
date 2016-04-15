@@ -11,7 +11,7 @@ require 'lib/site.inc.php';
 <?php echo present_header(); ?>
 <div class="row">
     <div class="col-12 col-m-12 col-t-12">
-        <h2>Portfolio</h2>
+        <h2>My Projects</h2>
     </div>
 </div>
 <div id="projects" class="row">

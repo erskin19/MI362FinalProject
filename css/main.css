@@ -34,6 +34,13 @@ body{
     background-color: #b3b3b3;
 }
 
+h2{
+    text-align: center;
+    font-size: 2em;
+    font-family: "Century Gothic",CenturyGothic,AppleGothic,sans-serif;
+    font-weight:bold;
+}
+
 
 /******* Header and Tabs ********/
 header{
