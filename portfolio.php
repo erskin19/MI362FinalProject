@@ -11,14 +11,14 @@ require 'lib/site.inc.php';
 <?php echo present_header(); ?>
 
 <div id="projects" class="row">
-    <div class="col-3 col-t-4 col-m-12"><img href="img/placeholder.png" alt="placholder" /></div>
-    <div class="col-3 col-t-4 col-m-12"><img href="img/placeholder.png" alt="placholder" /></div>
-    <div class="col-3 col-t-4 col-m-12"><img href="img/placeholder.png" alt="placholder" /></div>
-    <div class="col-3 col-t-4 col-m-12"><img href="img/placeholder.png" alt="placholder" /></div>
-    <div class="col-3 col-t-4 col-m-12"><img href="img/placeholder.png" alt="placholder" /></div>
-    <div class="col-3 col-t-4 col-m-12"><img href="img/placeholder.png" alt="placholder" /></div>
-    <div class="col-3 col-t-4 col-m-12"><img href="img/placeholder.png" alt="placholder" /></div>
-    <div class="col-3 col-t-4 col-m-12"><img href="img/placeholder.png" alt="placholder" /></div>
+    <div class="col-3 col-t-4 col-m-12"><img src="img/placeholder.png" alt="placholder" /></div>
+    <div class="col-3 col-t-4 col-m-12"><img src="img/placeholder.png" alt="placholder" /></div>
+    <div class="col-3 col-t-4 col-m-12"><img src="img/placeholder.png" alt="placholder" /></div>
+    <div class="col-3 col-t-4 col-m-12"><img src="img/placeholder.png" alt="placholder" /></div>
+    <div class="col-3 col-t-4 col-m-12"><img src="img/placeholder.png" alt="placholder" /></div>
+    <div class="col-3 col-t-4 col-m-12"><img src="img/placeholder.png" alt="placholder" /></div>
+    <div class="col-3 col-t-4 col-m-12"><img src="img/placeholder.png" alt="placholder" /></div>
+    <div class="col-3 col-t-4 col-m-12"><img src="img/placeholder.png" alt="placholder" /></div>
 
 
 </div>
