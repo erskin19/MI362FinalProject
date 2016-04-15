@@ -84,7 +84,7 @@ header h1{
 }
 
 
-@media only screen and (min-width: 600px) {
+@media only screen and (min-width: 600px), only screen and (orientation: landscape){
     /* For tablets: */
     .col-t-1 {width: 8.33%;}
     .col-t-2 {width: 16.66%;}
