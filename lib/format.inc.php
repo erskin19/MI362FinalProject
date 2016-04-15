@@ -8,6 +8,24 @@ define("PHONE", "2488817620");
 define("LINKEDIN", "");
 
 /**
+ * Create the HTML for the head block
+ * @return string HTML for the head block
+ */
+function present_head($subTitle) {
+    $title = TITLE;
+    $html = <<<HTML
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title><?php echo TITLE . ' - ' . $subTitle; ?></title>
+<link href='http://fonts.googleapis.com/css?family=Great+Vibes' rel='stylesheet' type='text/css'>
+<link rel="stylesheet" href="css/main.css">
+</head>
+HTML;
+    return $html;
+}
+
+/**
  * Create the HTML for the header block
  * @return string HTML for the header block
  */
