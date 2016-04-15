@@ -14,9 +14,16 @@ define("LINKEDIN", "");
 function present_header() {
     $title = TITLE;
     $html = <<<HTML
-<header>
+<header class="row col-12">
 <h1>$title</h1>
 </header>
+<div class="row">
+<a href="index.php"><div class="col-3">About Me</div></a>
+<a href="index.php"><div class="col-3">Portfolio</div></a>
+<a href="index.php"><div class="col-3">Experience</div></a>
+<a href="index.php"><div class="col-3">Contact Me</div></a>
+</div>
+
 HTML;
     return $html;
 }
