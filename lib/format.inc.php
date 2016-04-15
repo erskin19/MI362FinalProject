@@ -18,6 +18,7 @@ function present_head($subTitle) {
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>$title - $subTitle</title>
+<link rel="icon" href="http://example.com/favicon.png">
 <link href='http://fonts.googleapis.com/css?family=Great+Vibes' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" href="css/main.css">
 </head>

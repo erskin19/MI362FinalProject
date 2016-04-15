@@ -107,12 +107,12 @@
       <file leaf-file-name="format.inc.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/format.inc.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+            <state relative-caret-position="275">
+              <caret line="20" column="55" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="55" />
               <folding>
-                <marker date="1460688281252" expanded="true" signature="374:652" placeholder="..." />
-                <marker date="1460688281252" expanded="true" signature="867:893" placeholder="..." />
-                <marker date="1460688281252" expanded="true" signature="921:1196" placeholder="..." />
+                <marker date="1460688577998" expanded="true" signature="374:708" placeholder="..." />
+                <marker date="1460688577998" expanded="true" signature="923:949" placeholder="..." />
+                <marker date="1460688577998" expanded="true" signature="977:1252" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -366,12 +366,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1460653005802</updated>
-      <workItem from="1460653008116" duration="22075000" />
+      <workItem from="1460653008116" duration="22360000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22075000" />
+    <option name="totallyTimeSpent" value="22360000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -654,12 +654,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/format.inc.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        <state relative-caret-position="275">
+          <caret line="20" column="55" selection-start-line="20" selection-start-column="55" selection-end-line="20" selection-end-column="55" />
           <folding>
-            <marker date="1460688281252" expanded="true" signature="374:652" placeholder="..." />
-            <marker date="1460688281252" expanded="true" signature="867:893" placeholder="..." />
-            <marker date="1460688281252" expanded="true" signature="921:1196" placeholder="..." />
+            <marker date="1460688577998" expanded="true" signature="374:708" placeholder="..." />
+            <marker date="1460688577998" expanded="true" signature="923:949" placeholder="..." />
+            <marker date="1460688577998" expanded="true" signature="977:1252" placeholder="..." />
           </folding>
         </state>
       </provider>
