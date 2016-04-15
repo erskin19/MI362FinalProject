@@ -19,9 +19,9 @@ function present_header() {
 </header>
 <div class="row" id="tabs">
 <a href="index.php"><div class="col-3 tabs">About Me</div></a>
-<a href="index.php"><div class="col-3 tabs">Portfolio</div></a>
-<a href="index.php"><div class="col-3 tabs">Experience</div></a>
-<a href="index.php"><div class="col-3 tabs">Contact Me</div></a>
+<a href="portfolio.php"><div class="col-3 tabs">Portfolio</div></a>
+<a href="experience.php"><div class="col-3 tabs">Experience</div></a>
+<a href="contact.php"><div class="col-3 tabs">Contact Me</div></a>
 </div>
 
 HTML;
