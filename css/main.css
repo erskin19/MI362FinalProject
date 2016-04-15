@@ -33,6 +33,7 @@ body{
     background-color: #b3b3b3;
 }
 
+
 /* Header and Tabs */
 header{
     background-color: gray;
@@ -55,4 +56,24 @@ header h1{
     font-size: 2em;
     font-family: "Century Gothic",CenturyGothic,AppleGothic,sans-serif;
     text-shadow: 4px 4px 3px rgba(0,0,0,0.1);
+}
+
+/* unvisited link */
+#tabs a:link {
+    color: white;
+}
+
+/* visited link */
+#tabs a:visited {
+    color: white;
+}
+
+/* mouse over link */
+#tabs a:hover {
+    color: white;
+}
+
+/* selected link */
+#tabs a:active {
+    color: white;
 }
