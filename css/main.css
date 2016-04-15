@@ -95,6 +95,17 @@ header h1{
     width:100%;
 }
 
+#cover{ 
+    position:fixed;
+    top:0;
+    left:0;
+    background:rgba(0,0,0,0.6);
+    z-index:5;
+    width:100%;
+    height:100%;
+    display:block;
+}
+
 
 @media only screen and (min-width: 600px), only screen and (orientation: landscape){
     /* For tablets: */
