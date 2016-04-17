@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2ffaf74-ac24-44d2-afe5-bad54d15c703" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
     </list>
     <ignored path="Brit.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -70,7 +70,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="325">
@@ -102,11 +102,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="103" column="91" selection-start-line="103" selection-start-column="91" selection-end-line="103" selection-end-column="91" />
+            <state relative-caret-position="286">
+              <caret line="101" column="22" selection-start-line="101" selection-start-column="22" selection-end-line="101" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -146,9 +146,9 @@
         <option value="$PROJECT_DIR$/experience.php" />
         <option value="$PROJECT_DIR$/contact.php" />
         <option value="$PROJECT_DIR$/lib/format.inc.php" />
-        <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/portfolio.php" />
         <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/css/main.css" />
       </list>
     </option>
   </component>
@@ -402,12 +402,12 @@
       <option name="presentableId" value="Default" />
       <updated>1460653005802</updated>
       <workItem from="1460653008116" duration="34627000" />
-      <workItem from="1460916055700" duration="502000" />
+      <workItem from="1460916055700" duration="580000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35129000" />
+    <option name="totallyTimeSpent" value="35207000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -629,14 +629,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="103" column="91" selection-start-line="103" selection-start-column="91" selection-end-line="103" selection-end-column="91" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/portfolio.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="261">
@@ -652,6 +644,14 @@
           <folding>
             <element signature="e#0#41#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="101" column="22" selection-start-line="101" selection-start-column="22" selection-end-line="101" selection-end-column="22" />
+          <folding />
         </state>
       </provider>
     </entry>
