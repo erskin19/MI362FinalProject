@@ -96,10 +96,11 @@ header h1{
 }
 
 #popup {
-    height:40%;
-    width:40%;
-    margin:30%;
-    position:fixed;
+    position: fixed;
+    top: 25%;
+    right: 25%;
+    width: 50%;
+    height: 50%;
     z-index:10;
     display:none;
     border:5px solid #cccccc;
