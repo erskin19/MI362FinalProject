@@ -110,6 +110,7 @@ header h1{
     display:none;
     border:5px solid #cccccc;
     border-radius:10px;
+    background-color: #F6FBFC;
 }
 
 #cover{
@@ -150,7 +151,7 @@ header h1{
 #popup a:hover {
     color: black;
     text-decoration: none;
-    background-color: #F6FBFC;
+    background-color: #cccccc;
 }
 
 /* selected link */
