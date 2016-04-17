@@ -123,6 +123,38 @@ header h1{
     display:none;
 }
 
+#popup a {
+    position:absolute;
+    top: 15px;
+    right: 15px;
+    font-size: 4em;
+    font-weight: bold;
+    color: black;
+
+}
+
+/* unvisited link */
+#popup a:link {
+    color: black;
+}
+
+/* visited link */
+#popup a:visited {
+    color: black;
+}
+
+/* mouse over link */
+#popup a:hover {
+    color: black;
+}
+
+/* selected link */
+#popup a:active {
+    color: black;
+    border:2px dashed black;
+    border-radius:5px;
+}
+
 
 @media only screen and (min-width: 600px), only screen and (orientation: landscape){
     /* For tablets: */
