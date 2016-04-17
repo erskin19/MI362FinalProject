@@ -128,11 +128,11 @@ header h1{
     position:absolute;
     top: 5px;
     right: 15px;
-    font-size: 4em;
+    font-size: 2em;
     font-weight: bold;
     font-family: "Arial", Arial, sans-serif;
     color: black;
-
+    padding:0;
 }
 
 /* unvisited link */
