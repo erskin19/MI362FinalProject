@@ -90,6 +90,11 @@ header h1{
     padding:5px;
 }
 
+/********* About ************/
+#about div img{
+    width:100%;
+}
+
 /********* Portfolio ************/
 #projects div img{
     width:100%;
