@@ -7,6 +7,7 @@ $( document ).ready(function() {
     console.log( "ready!" );
     $('.project').click(projectClick);
     $('#exitPopup').click(exitProject);
+    $('#cover').click(exitProject);
 });
 
 // function called when a project is clicked on
