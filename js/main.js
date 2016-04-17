@@ -13,4 +13,5 @@ function projectClick(){
     console.log(this);
     $("#cover").css("display", "block");
     $("#popup").css("display", "block");
+    return false;
 }
