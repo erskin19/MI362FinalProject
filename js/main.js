@@ -6,12 +6,19 @@
 $( document ).ready(function() {
     console.log( "ready!" );
     $('.project').click(projectClick);
+    $('#exitPopup').click(exitProject);
 });
 
 // function called when a project is clicked on
 function projectClick(){
-    console.log(this);
     $("#cover").css("display", "block");
     $("#popup").css("display", "block");
+    return false;
+}
+
+// function called when a project is clicked on
+function exitProject(){
+    $("#cover").css("display", "none");
+    $("#popup").css("display", "none");
     return false;
 }
