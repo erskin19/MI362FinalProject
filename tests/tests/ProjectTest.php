@@ -17,7 +17,8 @@ class ProjectTest extends \PHPUnit_Framework_TestCase
             'name' => 'foo',
             'description' => 'foo bar',
             'requirements' => 'foobar',
-            'completed' => '2016-04-14'
+            'completed' => '2016-04-14',
+            'cover' => 'placeholder.png'
         );
         $project = new Project($row);
         $this->assertEquals(12, $project->getId());
@@ -25,6 +26,7 @@ class ProjectTest extends \PHPUnit_Framework_TestCase
         $this->assertEquals('foo bar', $project->getDesc());
         $this->assertEquals('foobar', $project->getReq());
         $this->assertEquals('2016-04-14', $project->getDate());
+        $this->assertEquals('placeholder.png', $project->getCover());
     }
 }
 

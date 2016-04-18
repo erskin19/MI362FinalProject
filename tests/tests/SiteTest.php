@@ -12,7 +12,7 @@ class SiteTest extends \PHPUnit_Framework_TestCase
         if(is_callable($localize)) {
             $localize($site);
         }
-        $this->assertEquals('', $site->getTablePrefix());
+        $this->assertEquals('test_', $site->getTablePrefix());
     }
 
 	public function testGetTablePrefix() {
