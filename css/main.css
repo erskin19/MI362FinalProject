@@ -124,9 +124,31 @@ header h1{
     display:none;
 }
 
-#popup a {
+#popup #exitPopup {
     position:absolute;
     top: 5px;
+    right: 15px;
+    font-size: 2em;
+    font-weight: bold;
+    font-family: "Arial", Arial, sans-serif;
+    color: black;
+    padding:0;
+}
+
+#popup #lastPic {
+    position:absolute;
+    top: 50%;
+    left: 15px;
+    font-size: 2em;
+    font-weight: bold;
+    font-family: "Arial", Arial, sans-serif;
+    color: black;
+    padding:0;
+}
+
+#popup #nextPic {
+    position:absolute;
+    top: 50%;
     right: 15px;
     font-size: 2em;
     font-weight: bold;

@@ -17,7 +17,7 @@ function projectClick(){
     return false;
 }
 
-// function called when a project is clicked on
+// function called when a project is closed
 function exitProject(){
     $("#cover").css("display", "none");
     $("#popup").css("display", "none");

@@ -26,6 +26,8 @@ require 'lib/site.inc.php';
 </div>
 <div id="popup">
     <a id="exitPopup" href=""> X </a>
+    <a id="lastPic" href=""> <i class="fa fa-chevron-left fa-2x"></i> </a>
+    <a id="nextPic" href=""> <i class="fa fa-chevron-left fa-2x"></i> </a>
 </div>
 <div id="cover"></div>
 </body>

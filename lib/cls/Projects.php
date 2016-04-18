@@ -32,4 +32,19 @@ SQL;
 
         return new Project($statement->fetch(PDO::FETCH_ASSOC));
     }
+
+    public function getAll() {
+        $sql =<<<SQL
+SELECT * from $this->tableName
+SQL;
+        $pdo = $this->pdo();
+        $statement = $pdo->prepare($sql);
+        $statement->execute(array());
+        $result = array();  // Empty initial array
+        foreach($statement as $row) {
+            $result[] = new Project($row);
+        }
+
+        return $result;
+    }
 }
