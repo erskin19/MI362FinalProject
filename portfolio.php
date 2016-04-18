@@ -7,8 +7,7 @@ $view = new ProjectView($site);
 <!DOCTYPE html>
 <html lang="en">
 
-<?php var_dump($site); echo $site;
-echo present_head("Portfolio"); ?>
+<?php echo present_head("Portfolio"); ?>
 
 <body>
 <?php echo present_header(); ?>
@@ -26,7 +25,7 @@ echo present_head("Portfolio"); ?>
     <div class="col-3 col-t-4 col-m-12"><img src="img/placeholder.png" alt="placholder" /></div>
     <div class="col-3 col-t-4 col-m-12"><img src="img/placeholder.png" alt="placholder" /></div>
     <div class="col-3 col-t-4 col-m-12"><img src="img/placeholder.png" alt="placholder" /></div>
-    <?php echo $view->displayProjects(); ?>
+    <?php $view->displayProjects(); ?>
 </div>
 <div id="popup">
     <a id="exitPopup" href=""> X </a>
