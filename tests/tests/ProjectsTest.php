@@ -66,7 +66,7 @@ class ProjectsTest extends \PHPUnit_Extensions_Database_TestCase
         $this->assertInstanceOf("Project", $project[0]);
         $this->assertInstanceOf("Project", $project[1]);
         $this->assertEquals(1, $project[0]->getId());
-        $this->assertEquals(0, $project[1]->getId());
+        $this->assertEquals(2, $project[1]->getId());
     }
 }
 
