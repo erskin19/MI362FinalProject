@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2ffaf74-ac24-44d2-afe5-bad54d15c703" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/main.js" afterPath="$PROJECT_DIR$/js/main.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/cls/Projects.php" afterPath="$PROJECT_DIR$/lib/cls/Projects.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/format.inc.php" afterPath="$PROJECT_DIR$/lib/format.inc.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/portfolio.php" afterPath="$PROJECT_DIR$/portfolio.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/tests/ProjectsTest.php" afterPath="$PROJECT_DIR$/tests/tests/ProjectsTest.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tests/tests/db/project.xml" afterPath="$PROJECT_DIR$/tests/tests/db/project.xml" />
     </list>
     <ignored path="Brit.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -66,8 +60,8 @@
       <file leaf-file-name="ProjectsTest.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tests/tests/ProjectsTest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="686">
-              <caret line="67" column="51" selection-start-line="67" selection-start-column="51" selection-end-line="67" selection-end-column="51" />
+            <state relative-caret-position="586">
+              <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
               <folding>
                 <element signature="e#6#88#0#PHP" expanded="true" />
               </folding>
@@ -429,12 +423,12 @@
       <option name="presentableId" value="Default" />
       <updated>1460653005802</updated>
       <workItem from="1460653008116" duration="34627000" />
-      <workItem from="1460916055700" duration="8897000" />
+      <workItem from="1460916055700" duration="9026000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43524000" />
+    <option name="totallyTimeSpent" value="43653000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -682,8 +676,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tests/tests/ProjectsTest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="686">
-          <caret line="67" column="51" selection-start-line="67" selection-start-column="51" selection-end-line="67" selection-end-column="51" />
+        <state relative-caret-position="586">
+          <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
           <folding>
             <element signature="e#6#88#0#PHP" expanded="true" />
           </folding>

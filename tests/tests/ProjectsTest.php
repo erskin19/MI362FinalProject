@@ -62,7 +62,7 @@ class ProjectsTest extends \PHPUnit_Extensions_Database_TestCase
     public function test_getAll() {
         $projects = new Projects(self::$site);
 
-        $project = $projects->search("dude");
+        $project = $projects->getAll();
         $this->assertInstanceOf("Project", $project[0]);
         $this->assertInstanceOf("Project", $project[1]);
         $this->assertEquals("0", $project[0]->getId());
