@@ -1,6 +1,5 @@
 <?php
 require 'lib/site.inc.php';
-var_dump($site);
 $view = new ProjectView($site);
 ?>
 
