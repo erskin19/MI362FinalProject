@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <dataset>
-    <project id="1" name="Test" description="Testing" requirements="Do a Test" completed="2016-04-14"/>
-    <project id="2" name="Test2" description="Testing2" requirements="Do a Test2" completed="2016-04-18"/>
+    <project id="1" name="Test" description="Testing" requirements="Do a Test" completed="2016-04-14" cover="placeholder.png"/>
+    <project id="2" name="Test2" description="Testing2" requirements="Do a Test2" completed="2016-04-18" cover="placeholder.png"/>
 </dataset>

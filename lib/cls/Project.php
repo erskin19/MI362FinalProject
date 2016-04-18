@@ -6,6 +6,7 @@ class Project
     private $desc;
     private $req;
     private $date;
+    private $cover;
 
     /**
      * Constructor
@@ -17,6 +18,7 @@ class Project
         $this->desc = $row['description'];
         $this->req = $row['requirements'];
         $this->date = $row['completed'];
+        $this->cover = $row['cover'];
     }
 
     /**
@@ -99,6 +101,21 @@ class Project
         $this->date = $date;
     }
 
+    /**
+     * @return mixed
+     */
+    public function getCover()
+    {
+        return $this->cover;
+    }
+
+    /**
+     * @param mixed $cover
+     */
+    public function setCover($cover)
+    {
+        $this->cover = $cover;
+    }
 }
 
 
