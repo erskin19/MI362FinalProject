@@ -1,13 +1,14 @@
 <?php
 require 'lib/site.inc.php';
-echo $site;
+var_dump($site);
 $view = new ProjectView($site);
 ?>
 
 <!DOCTYPE html>
 <html lang="en">
 
-<?php echo present_head("Portfolio"); ?>
+<?php var_dump($site); echo $site;
+echo present_head("Portfolio"); ?>
 
 <body>
 <?php echo present_header(); ?>
