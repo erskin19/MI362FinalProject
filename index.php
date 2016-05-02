@@ -12,8 +12,7 @@ require 'lib/site.inc.php';
 
 <div class="row" id="about">
     <div class="col-1 col-t-1 col-m-1"></div>
-    <div class="col-3 col-t-3 col-m-10"><img src="img/brittany_hackel.JPG" alt="Brittany Hackel" /></div>
-    <div class="col-1 col-t-1 col-m-1"></div>
+    <div class="col-4 col-t-4 col-m-12"><img src="img/brittany_hackel.JPG" alt="Brittany Hackel" /></div>
     <div class="col-6 col-t-6 col-m-12">
         <p>I always have had an interest in the arts, but never thought it would be a career path.
 
