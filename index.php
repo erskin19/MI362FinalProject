@@ -14,7 +14,7 @@ require 'lib/site.inc.php';
     <div class="col-1 col-t-1 col-m-1"></div>
     <div class="col-4 col-t-4 col-m-12"><img src="img/brittany_hackel.JPG" alt="Brittany Hackel" /></div>
     <div class="col-6 col-t-6 col-m-12">
-        <p>I always have had an interest in the arts, but never thought it would be a career path.
+        <p>I have always had an interest in the arts, but never thought it would be a career path.
 
             Throughout high school, I had taken a few art and architecture classes to stimulate my interest
 
