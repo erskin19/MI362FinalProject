@@ -92,8 +92,13 @@ header h1{
 }
 
 /********* About ************/
+#about{
+    background-color:#85BAC8;
+}
 #about div img{
     width:100%;
+    border: 5px solid #808080;
+    border-radius: 25px;
 }
 
 /********* Portfolio ************/
