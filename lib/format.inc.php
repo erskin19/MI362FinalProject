@@ -36,7 +36,7 @@ HTML;
 function present_header() {
     $title = TITLE;
     $html = <<<HTML
-<header class="row col-12 col-t-12 col-m-12">
+<header id="header" class="row col-12 col-t-12 col-m-12">
 <h1>$title</h1>
 </header>
 <div class="row" id="tabs">

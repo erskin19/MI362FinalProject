@@ -44,6 +44,7 @@ h2{
 
 /******* Header and Tabs ********/
 header{
+    background-image: url("../img/cover.jpeg");
     background-color: gray;
     color:white;
 }
