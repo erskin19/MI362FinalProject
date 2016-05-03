@@ -64,10 +64,10 @@ header h1{
     /* WebKit (Safari/Chrome) Only */
     -webkit-text-stroke: 1px #24839B;
     text-shadow: 4px 4px 3px rgba(0,0,0,0.1),
-        -1px -1px 0 #24839B,
-        1px -1px 0 #24839B,
-        -1px  1px 0 #24839B,
-        1px  1px 0 #24839B;
+        -1px -1px 0 #000,
+        1px -1px 0 #000,
+        -1px  1px 0 #000,
+        1px  1px 0 #000;
 
 }
 
