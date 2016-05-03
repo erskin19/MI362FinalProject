@@ -17,12 +17,11 @@ class ProjectView
     public function displayProjects()
     {
         $projectList = $this->projects->getAll();
-        echo $projectList[0]->getId();
         $html = '';
         for ($i = 0; $i < count($projectList); $i++){
-//            $html .= '<div class="col-3 col-t-4 col-m-12"><a class="project" id="'. $projectList[0]->getId()
-//                .'" href="#popup"><img src="img/'.$projectList[$i]->getCover()
-//                .'" alt="'.$projectList[$i]->getTitle().'" /></a></div>';
+            $html .= '<div class="col-3 col-t-4 col-m-12"><a class="project" id="'. $projectList[$i]->getId()
+                .'" href="#popup"><img src="img/'.$projectList[$i]->getCover()
+                .'" alt="'.$projectList[$i]->getName().'" /></a></div>';
         }
         return $html;
     }
