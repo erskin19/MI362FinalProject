@@ -18,11 +18,11 @@ class ProjectView
     {
         $projectList = $this->projects->getAll();
         $html = "";
-//        for ($i = 0; $i < count($projectList); $i++){
+        for ($i = 0; $i < count($projectList); $i++){
 //            $html .= '<div class="col-3 col-t-4 col-m-12"><a class="project" id="'. $projectList[$i]->getId()
 //                .'" href="#popup"><img src="img/'.$projectList[$i]->getCover()
 //                .'" alt="'.$projectList[$i]->getTitle().'" /></a></div>';
-//        }
+        }
         return $html;
     }
 }
