@@ -21,7 +21,7 @@ function projectClick(){
         cache: false,
         dataType:"json",
         success: function(output) {
-            alert(output);
+            alert(output["id"]);
         },
         error:function(){
             alert("error");
