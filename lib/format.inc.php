@@ -41,7 +41,7 @@ function present_header() {
 </header>
 <div class="row" id="tabs">
 <a href="index.php#about"><div class="col-3 col-t-3 col-m-12 tabs">About Me</div></a>
-<a href="portfolio.php"><div class="col-3 col-t-3 col-m-12 tabs">Portfolio</div></a>
+<a href="portfolio.php#projects"><div class="col-3 col-t-3 col-m-12 tabs">Portfolio</div></a>
 <a href="experience.php"><div class="col-3 col-t-3 col-m-12 tabs">Resume</div></a>
 <a href="contact.php"><div class="col-3 col-t-3 col-m-12 tabs">Contact Me</div></a>
 </div>
