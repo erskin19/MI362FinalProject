@@ -30,6 +30,11 @@
 
 
 /* Site wide styles */
+html, body{
+    height: 100%;
+    min-height: 100%;
+}
+
 body{
     background-color: #b3b3b3;
 }
@@ -239,6 +244,7 @@ header h1{
 
 #resume {
     width:80%;
+    height:100%;
 }
 
 #experience {
