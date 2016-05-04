@@ -30,6 +30,9 @@ $view = new ProjectView($site);
     <a id="exitPopup" href=""> X </a>
     <a id="lastPic" href=""> <i class="fa fa-chevron-left fa-2x"></i> </a>
     <a id="nextPic" href=""> <i class="fa fa-chevron-right fa-2x"></i> </a>
+    <object data="pdf/Boards.pdf" type="application/pdf" width="300" height="200">
+        <a href="pdf/Boards.pdf">Project 1</a>
+    </object>
 </div>
 <div id="cover"></div>
 </body>
