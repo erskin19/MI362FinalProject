@@ -151,6 +151,7 @@ header h1{
     font-family: "Arial", Arial, sans-serif;
     color: black;
     padding:0;
+    z-index:12;
 }
 
 #popup #lastPic {
@@ -179,6 +180,7 @@ header h1{
     position:absolute;
     height:100%;
     width:100%;
+    z-index:11;
 }
 
 /* unvisited link */
