@@ -145,11 +145,11 @@ header h1{
 #popup #exitPopup {
     position:absolute;
     top: 5px;
-    right: 15px;
+    right: 20px;
     font-size: 2em;
     font-weight: bold;
     font-family: "Arial", Arial, sans-serif;
-    color: black;
+    color: #24839B;
     padding:0;
     z-index:12;
 }
