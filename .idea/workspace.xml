@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d2ffaf74-ac24-44d2-afe5-bad54d15c703" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/main.css" afterPath="$PROJECT_DIR$/css/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/format.inc.php" afterPath="$PROJECT_DIR$/lib/format.inc.php" />
     </list>
     <ignored path="Brit.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -44,28 +45,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="autoload.inc.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/autoload.inc.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/main.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="500">
-              <caret line="22" column="57" selection-start-line="22" selection-start-column="57" selection-end-line="22" selection-end-column="57" />
-              <folding>
-                <element signature="e#0#41#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="ajax-project.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ajax-project.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -79,8 +58,8 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="550">
-              <caret line="34" column="30" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
+            <state relative-caret-position="586">
+              <caret line="302" column="18" selection-start-line="302" selection-start-column="18" selection-end-line="302" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -89,12 +68,12 @@
       <file leaf-file-name="format.inc.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/format.inc.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="43" column="31" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
+            <state relative-caret-position="500">
+              <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
               <folding>
-                <marker date="1462391725185" expanded="true" signature="374:1006" placeholder="..." />
-                <marker date="1462391725185" expanded="true" signature="1251:1277" placeholder="..." />
-                <marker date="1462391725185" expanded="true" signature="1305:1659" placeholder="..." />
+                <marker date="1462396759439" expanded="true" signature="374:1006" placeholder="..." />
+                <marker date="1462396759439" expanded="true" signature="1251:1277" placeholder="..." />
+                <marker date="1462396759439" expanded="true" signature="1305:1670" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -169,9 +148,9 @@
         <option value="$PROJECT_DIR$/ajax-project.php" />
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/lib/cls/ProjectView.php" />
-        <option value="$PROJECT_DIR$/lib/format.inc.php" />
         <option value="$PROJECT_DIR$/portfolio.php" />
         <option value="$PROJECT_DIR$/experience.php" />
+        <option value="$PROJECT_DIR$/lib/format.inc.php" />
         <option value="$PROJECT_DIR$/css/main.css" />
       </list>
     </option>
@@ -385,12 +364,12 @@
       <updated>1460653005802</updated>
       <workItem from="1460653008116" duration="34627000" />
       <workItem from="1460916055700" duration="18194000" />
-      <workItem from="1462219518353" duration="28369000" />
+      <workItem from="1462219518353" duration="28796000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81190000" />
+    <option name="totallyTimeSpent" value="81617000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -463,9 +442,9 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1462391725185" expanded="true" signature="374:1006" placeholder="..." />
-            <marker date="1462391725185" expanded="true" signature="1251:1277" placeholder="..." />
-            <marker date="1462391725185" expanded="true" signature="1305:1659" placeholder="..." />
+            <marker date="1462396759439" expanded="true" signature="374:1006" placeholder="..." />
+            <marker date="1462396759439" expanded="true" signature="1251:1277" placeholder="..." />
+            <marker date="1462396759439" expanded="true" signature="1305:1670" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -702,18 +681,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/format.inc.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="43" column="31" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
-          <folding>
-            <marker date="1462391725185" expanded="true" signature="374:1006" placeholder="..." />
-            <marker date="1462391725185" expanded="true" signature="1251:1277" placeholder="..." />
-            <marker date="1462391725185" expanded="true" signature="1305:1659" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/autoload.inc.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -729,14 +696,6 @@
           <folding>
             <element signature="e#0#41#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ajax-project.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -756,10 +715,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lib/format.inc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding>
+            <marker date="1462396759439" expanded="true" signature="374:1006" placeholder="..." />
+            <marker date="1462396759439" expanded="true" signature="1251:1277" placeholder="..." />
+            <marker date="1462396759439" expanded="true" signature="1305:1670" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ajax-project.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="34" column="30" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
+        <state relative-caret-position="586">
+          <caret line="302" column="18" selection-start-line="302" selection-start-column="18" selection-end-line="302" selection-end-column="18" />
           <folding />
         </state>
       </provider>
