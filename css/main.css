@@ -184,13 +184,11 @@ header h1{
 }
 
 #popup object a p{
-    text-align: center;
     display:block;
-    margin:30% auto;
+    margin:40% auto;
 }
 
 #popup object a i{
-    text-align: center;
     display:block;
     margin:auto;
 }
