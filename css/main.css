@@ -121,6 +121,8 @@ header h1{
 
 #projects div img{
     width:100%;
+    border:5px solid #24839B;
+    border-radius:10px;
 }
 
 #popup {
