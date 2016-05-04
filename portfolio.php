@@ -19,7 +19,10 @@ $view = new ProjectView($site);
 <div id="popup">
     <a id="exitPopup" href="">X</a>
     <object id="pdf" data="pdf/placeholder.pdf" type="application/pdf" >
-        <a id="linkToPdf" href="pdf/placeholder.pdf">Click here for PDF. PDF's are not supported in this browser.</a>
+        <a id="linkToPdf" href="pdf/placeholder.pdf">
+            <p>Click here for PDF. PDF's are not supported in this browser.</p>
+            <i class="fa fa-file-pdf-o fa-4x" aria-hidden="true"></i>
+        </a>
     </object>
 </div>
 <div id="cover"></div>

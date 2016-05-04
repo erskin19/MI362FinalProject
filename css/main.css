@@ -183,6 +183,18 @@ header h1{
     z-index:11;
 }
 
+#popup object a p{
+    text-align: center;
+    position: relative;
+    top:30%;
+}
+
+#popup object a i{
+    text-align: center;
+    position: relative;
+    margin:auto;
+}
+
 /* unvisited link */
 #popup a:link {
     color: black;
