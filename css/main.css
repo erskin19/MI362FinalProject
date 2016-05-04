@@ -125,6 +125,21 @@ header h1{
     border-radius:10px;
 }
 
+#projects div h3{
+    text-align: center;
+}
+
+/* mouse over link */
+#projects div a:hover img {
+    border:5px solid black;
+}
+
+/* selected link */
+#projects div a:active img {
+    border:5px dashed black;
+}
+
+
 #popup {
     position: fixed;
     top: 5%;
@@ -194,7 +209,6 @@ header h1{
     border-radius:5px;
     text-decoration: none;
 }
-
 
 @media only screen and (min-width: 600px), only screen and (orientation: landscape){
     /* For tablets: */
