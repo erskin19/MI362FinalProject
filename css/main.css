@@ -175,6 +175,12 @@ header h1{
     padding:0;
 }
 
+#popup #pdf {
+    position:absolute;
+    height:100%;
+    width:100%;
+}
+
 /* unvisited link */
 #popup a:link {
     color: black;
