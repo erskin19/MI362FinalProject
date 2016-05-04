@@ -14,5 +14,5 @@ if(empty($_POST['projectId'])){
 }
 
 $project = $controller->get($_POST['projectId']);
-//$array = [$project->getId(), $project->getName(), $project->]
-echo json_encode($project);
+$array = [$project->getId(), $project->getName(), $project->getCover(), $project->getDesc()];
+echo json_encode($array);
