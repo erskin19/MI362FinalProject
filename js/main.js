@@ -12,8 +12,6 @@ $( document ).ready(function() {
 
 // function called when a project is clicked on
 function projectClick(){
-    $("#cover").css("display", "block");
-    $("#popup").css("display", "block");
     var that = this;
     $.ajax({ url: '../ajax-project.php',
         data: {projectId: that.id},
@@ -21,7 +19,9 @@ function projectClick(){
         cache: false,
         dataType:"json",
         success: function(output) {
-            alert(output);
+            $("#cover").css("display", "block");
+            $("#popup").css("display", "block");
+            $("#pdf").attr("data","pdf/"+output[3]);
         },
         error:function(){
             alert("error");

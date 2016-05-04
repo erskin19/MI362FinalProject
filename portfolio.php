@@ -14,20 +14,12 @@ $view = new ProjectView($site);
     <div class="col-12 col-m-12 col-t-12">
         <h2>My Projects</h2>
     </div>
-    <div class="col-3 col-t-4 col-m-12"><a class="project" id="1" href="#popup"><img src="img/placeholder.png" alt="placholder" /></a></div>
-    <div class="col-3 col-t-4 col-m-12"><img src="img/placeholder.png" alt="placholder" /></div>
-    <div class="col-3 col-t-4 col-m-12"><img src="img/placeholder.png" alt="placholder" /></div>
-    <div class="col-3 col-t-4 col-m-12"><img src="img/placeholder.png" alt="placholder" /></div>
-    <div class="col-3 col-t-4 col-m-12"><img src="img/placeholder.png" alt="placholder" /></div>
-    <div class="col-3 col-t-4 col-m-12"><img src="img/placeholder.png" alt="placholder" /></div>
-    <div class="col-3 col-t-4 col-m-12"><img src="img/placeholder.png" alt="placholder" /></div>
-    <div class="col-3 col-t-4 col-m-12"><img src="img/placeholder.png" alt="placholder" /></div>
     <?php echo $view->displayProjects(); ?>
 </div>
 <div id="popup">
     <a id="exitPopup" href="">X</a>
-    <object id="pdf" data="pdf/Boards.pdf" type="application/pdf" >
-        <a href="pdf/Boards.pdf">Project 1</a>
+    <object id="pdf" data="pdf/placeholder.pdf" type="application/pdf" >
+        <a href="pdf/placeholder.pdf">Can Not Find PDF</a>
     </object>
 </div>
 <div id="cover"></div>
