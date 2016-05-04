@@ -14,6 +14,20 @@ $( document ).ready(function() {
 function projectClick(){
     $("#cover").css("display", "block");
     $("#popup").css("display", "block");
+    var that = this;
+    $.ajax({ url: '../ajax-project.php',
+        data: {projectId: that.id},
+        type: 'POST',
+        cache: false,
+        dataType:"json",
+        success: function(output) {
+            alert(output);
+        },
+        error:function(){
+            alert("error");
+        }
+
+    });
     return false;
 }
 
@@ -23,3 +37,5 @@ function exitProject(){
     $("#popup").css("display", "none");
     return false;
 }
+
+

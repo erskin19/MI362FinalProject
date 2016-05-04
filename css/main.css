@@ -114,6 +114,11 @@ header h1{
 }
 
 /********* Portfolio ************/
+#projects{
+    background-color:#85BAC8;
+    border-radius: 0 0 10px 10px;
+}
+
 #projects div img{
     width:100%;
 }
@@ -145,35 +150,13 @@ header h1{
 #popup #exitPopup {
     position:absolute;
     top: 5px;
-    right: 20px;
+    right: 30px;
     font-size: 2em;
     font-weight: bold;
     font-family: "Arial", Arial, sans-serif;
     color: #24839B;
     padding:0;
     z-index:12;
-}
-
-#popup #lastPic {
-    position:absolute;
-    top: 50%;
-    left: 15px;
-    font-size: 2em;
-    font-weight: bold;
-    font-family: "Arial", Arial, sans-serif;
-    color: black;
-    padding:0;
-}
-
-#popup #nextPic {
-    position:absolute;
-    top: 50%;
-    right: 15px;
-    font-size: 2em;
-    font-weight: bold;
-    font-family: "Arial", Arial, sans-serif;
-    color: black;
-    padding:0;
 }
 
 #popup #pdf {
