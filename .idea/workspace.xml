@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d2ffaf74-ac24-44d2-afe5-bad54d15c703" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/img/Game Room.PNG" afterPath="$PROJECT_DIR$/img/GameRoom.PNG" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pdf/IDES 342_MiniProject3.pdf" afterPath="$PROJECT_DIR$/pdf/IDES342_MiniProject3.pdf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pdf/IDES 343_Final.pdf" afterPath="$PROJECT_DIR$/pdf/IDES343_Final.pdf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pdf/ReDesign of RM. 209.pdf" afterPath="$PROJECT_DIR$/pdf/ReDesignRM209.pdf" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/pdf/hackelbrittany_Project 2 Final Booklet.pdf" afterPath="$PROJECT_DIR$/pdf/hackelbrittany_Project2FinalBooklet.pdf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="d2ffaf74-ac24-44d2-afe5-bad54d15c703" name="Default" comment="" />
     <ignored path="Brit.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -400,12 +393,12 @@
       <updated>1460653005802</updated>
       <workItem from="1460653008116" duration="34627000" />
       <workItem from="1460916055700" duration="18194000" />
-      <workItem from="1462219518353" duration="21803000" />
+      <workItem from="1462219518353" duration="21845000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74624000" />
+    <option name="totallyTimeSpent" value="74666000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
