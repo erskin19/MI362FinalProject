@@ -20,6 +20,7 @@ function projectClick(){
         dataType:"json",
         success: function(output) {
             $("#pdf").attr("data","pdf/"+output[3]);
+            $("#linkToPdf").attr("href","pdf/"+output[3]);
             $("#cover").css("display", "block");
             $("#popup").css("display", "block");
         },

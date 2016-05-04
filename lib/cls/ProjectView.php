@@ -21,7 +21,8 @@ class ProjectView
         for ($i = 0; $i < count($projectList); $i++){
             $html .= '<div class="col-3 col-t-4 col-m-12"><a class="project" id="'. $projectList[$i]->getId()
                 .'" href="#popup"><img src="img/'.$projectList[$i]->getCover()
-                .'" alt="'.$projectList[$i]->getName().'" /></a></div>';
+                .'" alt="'.$projectList[$i]->getName().'" /></a>
+                <h3 class="projectName">'.$projectList[$i]->getName().'</h3></div>';
         }
         return $html;
     }
