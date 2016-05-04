@@ -1,0 +1,15 @@
+create table project(id int, name text,description text, requirements text, completed date, cover text);
+
+insert into project values(101, 'International Center Cafeteria', 'Boards.pdf', 'requirements', date '2016-01-01', 'internationalCenter.PNG');
+insert into project values(102, 'Reflecting Petals', 'BrittanyHackel_RBT.pdf', 'requirements', date '2016-01-01', 'reflectivePetals.PNG');
+insert into project values(103, 'Classroom Redesign', 'ReDesignRM209.pdf', 'requirements', date '2016-01-01', 'classroomRedesign.PNG');
+insert into project values(104, 'Game Room', 'Hackel_FloorPlan_OPTIONS.pdf', 'requirements', date '2016-01-01', 'GameRoom.PNG');
+insert into project values(105, 'Geometric Chair', 'hackelbrittany_3DChairLayout.pdf', 'requirements', date '2016-01-01', 'geometricChair.PNG');
+insert into project values(106, 'Mod Chugach', 'hackelbrittany_Project2FinalBooklet.pdf', 'requirements', date '2016-01-01', 'modChugach.PNG');
+insert into project values(107, 'Smith Residence', 'hackelbrittany_projectfloorplans.pdf', 'requirements', date '2016-01-01', 'smithResidence.PNG');
+insert into project values(108, 'A Detroit Residence', 'IDES342_MiniProject3.pdf', 'requirements', date '2016-01-01', 'detroitResidence.PNG');
+insert into project values(109, 'Luxury Victorian Suite', 'IDES343_Final.pdf', 'requirements', date '2016-01-01', 'victorianSuite.PNG');
+insert into project values(110, 'Playmakers Redesign', 'IDES342_Playmakers.pdf', 'requirements', date '2016-01-01', 'playmakers.PNG');
+insert into project values(111, 'Lavender Hill Farm', 'IDSOCharrette_2016.pdf', 'requirements', date '2016-01-01', 'lavenderHillFarm.PNG');
+insert into project values(112, 'Serenity Simplified', 'MiniProject 2_ABBI_BRITTANY_COLLEEN.pdf', 'requirements', date '2016-01-01', 'serenityHill.PNG');
+insert into project values(113, 'Solvution Labs', 'Solvution_IDES352.pdf', 'requirements', date '2016-01-01', 'solvution.PNG');
