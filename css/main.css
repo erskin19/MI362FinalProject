@@ -30,9 +30,13 @@
 
 
 /* Site wide styles */
+html{
+    height:100%;
+}
 
 body{
     background-color: #b3b3b3;
+    height:100%;
 }
 
 h2{
@@ -246,7 +250,7 @@ header h1{
 #experience {
     background-color:#85BAC8;
     border-radius: 0 0 10px 10px;
-    height: 1000px;
+    height: 500px;
 }
 
 @media only screen and (min-width: 600px), only screen and (orientation: landscape){
@@ -264,7 +268,7 @@ header h1{
     .col-t-11 {width: 91.66%;}
     .col-t-12 {width: 100%;}
     #experience {
-        height: 1500px;
+        height: 750px;
     }
 }
 @media only screen and (min-width: 768px) {
@@ -291,6 +295,6 @@ header h1{
     }
 
     #experience {
-        height: 2000px;
+        height: 1000px;
     }
 }
