@@ -229,14 +229,14 @@ header h1{
 }
 
 /* experience/resume page css */
-#resume object a p{
+#resume a p{
     text-indent: 0;
     text-align: center;
     display:block;
     margin:40% auto 10% auto;
 }
 
-#resume object a i{
+#resume a i{
     text-align: center;
     display:block;
     margin:auto;
