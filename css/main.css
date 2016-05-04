@@ -185,13 +185,13 @@ header h1{
 
 #popup object a p{
     text-align: center;
-    position: relative;
-    top:30%;
+    display:block;
+    margin:30% auto;
 }
 
 #popup object a i{
     text-align: center;
-    position: relative;
+    display:block;
     margin:auto;
 }
 
