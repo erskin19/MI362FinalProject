@@ -18,7 +18,7 @@ function projectClick(){
         type: 'POST',
         cache: false,
         dataType:"json",
-        success: function(output) {
+        success: function(output) { 
             $("#cover").css("display", "block");
             $("#popup").css("display", "block");
             $("#pdf").attr("data","pdf/"+output[3]);
