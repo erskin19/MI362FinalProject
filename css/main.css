@@ -237,9 +237,9 @@ header h1{
     margin:auto;
 }
 
-#resume #pdf {
+#resume {
     position:absolute;
-    width:80%;
+    width:100%;
 }
 
 #experience {
