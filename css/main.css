@@ -244,13 +244,13 @@ header h1{
 
 #resume {
     width:100%;
-    height:600px;
+    height:800px;
 }
 
 #experience {
     background-color:#85BAC8;
     border-radius: 0 0 10px 10px;
-    height: 800px;
+    height: 1000px;
 }
 
 @media only screen and (min-width: 600px), only screen and (orientation: landscape){
@@ -271,7 +271,7 @@ header h1{
         height:1000px;
     }
     #resume {
-        height:800px;
+        height:1200px;
     }
 
 }
