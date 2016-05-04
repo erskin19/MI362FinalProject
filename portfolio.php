@@ -21,7 +21,7 @@ $view = new ProjectView($site);
     <object id="pdf" data="pdf/placeholder.pdf" type="application/pdf" >
         <a id="linkToPdf" href="pdf/placeholder.pdf">
             <p>Click here for PDF. PDF's are not supported in this browser.</p>
-            <i class="fa fa-file-pdf-o fa-4x" aria-hidden="true"></i>
+            <i class="fa fa-file-pdf-o fa-5x" aria-hidden="true"></i>
         </a>
     </object>
 </div>
