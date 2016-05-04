@@ -30,10 +30,6 @@
 
 
 /* Site wide styles */
-html, body{
-    height: 100%;
-    min-height: 100%;
-}
 
 body{
     background-color: #b3b3b3;
@@ -243,13 +239,14 @@ header h1{
 }
 
 #resume {
-    width:80%;
-    height:100%;
+    width:100%;
+    height:100%
 }
 
 #experience {
     background-color:#85BAC8;
     border-radius: 0 0 10px 10px;
+    height: 1000px;
 }
 
 @media only screen and (min-width: 600px), only screen and (orientation: landscape){
@@ -266,6 +263,9 @@ header h1{
     .col-t-10 {width: 83.33%;}
     .col-t-11 {width: 91.66%;}
     .col-t-12 {width: 100%;}
+    #experience {
+        height: 1500px;
+    }
 }
 @media only screen and (min-width: 768px) {
     /* For desktop: */
@@ -288,5 +288,9 @@ header h1{
         padding-top:1em;
         margin-bottom: 0;
         margin-top: .25em;
+    }
+
+    #experience {
+        height: 2000px;
     }
 }
