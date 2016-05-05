@@ -275,9 +275,8 @@ header h1{
 
 /* mouse over link */
 #contact a:hover .email{
-    color: white;
+    color: #F6F6F6;
     text-decoration: none;
-    background-color: #cccccc;
 }
 
 /* selected link */
@@ -287,6 +286,55 @@ header h1{
     text-decoration: none;
 }
 
+/* unvisited link */
+#contact a:link .phone{
+    color: #43B51F;
+    text-decoration: none;
+}
+
+/* visited link */
+#contact a:visited .phone{
+    color: #43B51F;
+    text-decoration: none;
+}
+
+/* mouse over link */
+#contact a:hover .phone{
+    color: #53952F;
+    text-decoration: none;
+}
+
+/* selected link */
+#contact a:active .phone{
+    color: #43B51F;
+    border:4px dashed black;
+    text-decoration: none;
+}
+
+/* unvisited link */
+#contact a:link .linkedin{
+    color: #1985BB;
+    text-decoration: none;
+}
+
+/* visited link */
+#contact a:visited .linkedin{
+    color: #1985BB;
+    text-decoration: none;
+}
+
+/* mouse over link */
+#contact a:hover .linkedin{
+    color: #2995CB;
+    text-decoration: none;
+}
+
+/* selected link */
+#contact a:active .linkedin{
+    color: #1985BB;
+    border:4px dashed black;
+    text-decoration: none;
+}
 
 @media only screen and (min-width: 600px), only screen and (orientation: landscape){
     /* For tablets: */
