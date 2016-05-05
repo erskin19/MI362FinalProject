@@ -251,6 +251,43 @@ header h1{
     height: 1000px;
 }
 
+#contact{
+    background-color:#85BAC8;
+    border-radius: 0 0 10px 10px;
+    text-align:center;
+}
+
+#contact a {
+    margin:auto;
+    display:block;
+}
+/* unvisited link */
+#contact a:link .email{
+    color: white;
+    text-decoration: none;
+}
+
+/* visited link */
+#contact a:visited .email{
+    color: white;
+    text-decoration: none;
+}
+
+/* mouse over link */
+#contact a:hover .email{
+    color: white;
+    text-decoration: none;
+    background-color: #cccccc;
+}
+
+/* selected link */
+#contact a:active .email{
+    color: white;
+    border:4px dashed black;
+    text-decoration: none;
+}
+
+
 @media only screen and (min-width: 600px), only screen and (orientation: landscape){
     /* For tablets: */
     .col-t-1 {width: 8.33%;}
@@ -304,5 +341,4 @@ header h1{
         width:80%;
         height:1200px;
     }
-
 }
